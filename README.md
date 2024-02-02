@@ -12,5 +12,5 @@ Analog Inputs with 0-10v
 relay outputs
 DIN-Rail mount
 
-Datasheet:   https://drive.google.com/open?id=1bjMBwfcA1K_cogyhfQPLkSyG7FQlu70h&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1eorFe9eJNcCjn8xXMAjnsnGylqVLJVkC&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-agent-1-bt05-lte-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-agent-1-bt05-lte-user-guide/
